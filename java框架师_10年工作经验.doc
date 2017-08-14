@@ -1,0 +1,2075 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40"
+xmlns:ns0="http://schemas.microsoft.com/office/2004/12/omml">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="java框架师_10年工作经验.files/filelist.xml">
+<link rel=Edit-Time-Data href="java框架师_10年工作经验.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>emily.chang</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>itcast_lb</o:LastAuthor>
+  <o:Revision>189</o:Revision>
+  <o:TotalTime>341</o:TotalTime>
+  <o:Created>2012-05-25T08:09:00Z</o:Created>
+  <o:LastSaved>2013-10-29T03:19:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1024</o:Words>
+  <o:Characters>5843</o:Characters>
+  <o:Company>Zhaopin.com</o:Company>
+  <o:Lines>48</o:Lines>
+  <o:Paragraphs>13</o:Paragraphs>
+  <o:CharactersWithSpaces>6854</o:CharactersWithSpaces>
+  <o:Version>11.6360</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>120</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--p.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+li.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+div.MSONORMAL
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+p.MSOHEADER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+li.MSOHEADER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+div.MSOHEADER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+p.MSOFOOTER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+li.MSOFOOTER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+div.MSOFOOTER
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+a:link
+	{mso-style-priority:99;
+	mso-themecolor:hyperlink;}
+span.MSOHYPERLINK
+	{mso-style-priority:99;
+	mso-themecolor:hyperlink;}
+a:visited
+	{mso-style-priority:99;
+	mso-themecolor:followedhyperlink;}
+span.MSOHYPERLINKFOLLOWED
+	{mso-style-priority:99;
+	mso-themecolor:followedhyperlink;}
+p.MSOACETATE
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+li.MSOACETATE
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+div.MSOACETATE
+	{mso-style-priority:99;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-theme-font:minor-bidi;}
+span.CHAR
+	{mso-style-priority:99;
+	mso-style-unhide:no;}
+span.CHAR0
+	{mso-style-priority:99;
+	mso-style-unhide:no;}
+span.CHAR1
+	{mso-style-priority:99;
+	mso-style-unhide:no;}
+.MSOCHPDEFAULT
+	{mso-default-props:yes;
+	mso-bidi-theme-font:minor-bidi;}
+table.MSONORMALTABLE
+	{mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-bidi-theme-font:minor-bidi;}
+
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"\@微软雅黑";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:宋体;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-noshow:yes;
+	mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:宋体;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:宋体;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-link:"批注框文本 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:9.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:宋体;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:页眉;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:页脚;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.Char1
+	{mso-style-name:"批注框文本 Char";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:批注框文本;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:20.0pt 20.0pt 20.0pt 20.0pt;
+	mso-header-margin:25.0pt;
+	mso-footer-margin:25.0pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<link rel=themeData href="resume_word1.files/themedata.thmx">
+<link rel=colorSchemeMapping href="resume_word1.files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="17410">
+  <o:colormru v:ext="edit" colors="#2f9dbf,#71a7f3,#eaeaea,#f2f2f2"/>
+  <o:colormenu v:ext="edit" fillcolor="none [3052]" strokecolor="none [2732]"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="2"/>
+  <o:rules v:ext="edit">
+   <o:r id="V:Rule2" type="connector" idref="#_x0000_s2056"/>
+  </o:rules>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt;text-justify-trim:
+punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:rect id="_x0000_s2052" style='position:absolute;
+ left:0;text-align:left;margin-left:-14.2pt;margin-top:-7.1pt;width:894.75pt;
+ height:24.75pt;z-index:-17' fillcolor="#0070c0"/><![endif]--><![if !vml]><span
+style='mso-ignore:vglayout;position:relative;z-index:-17'><span
+style='left:0px;position:absolute;left:-20px;top:-10px;width:1195px;height:
+35px'><img width=1195 height=35 src="java框架师_10年工作经验.files/image001.gif"
+v:shapes="_x0000_s2052"></span></span><![endif]><span style='font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:white'><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:background1'>简历——智联招聘</span></span><span
+style='mso-themecolor:background1'><span lang=EN-US style='color:white'><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s2115" type="#_x0000_t75" alt="" style='position:absolute;
+ left:0;text-align:left;margin-left:450pt;margin-top:15.6pt;width:1in;height:85.8pt;
+ z-index:17'>
+ <v:imagedata src="http://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg"/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><img width=96 height=114
+src="http://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg" align=left
+hspace=12 v:shapes="_x0000_s2115"><![endif]><span style='font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>王</span></span><span
+lang=EN-US style='font-size:22.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+color:#404040'>XX</span><span lang=EN-US style='font-size:22.0pt;font-family:
+微软雅黑;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal style='margin-left:5.25pt;mso-para-margin-left:.5gd'><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>男<span lang=EN-US> | </span>已婚<span
+lang=EN-US> | 1981 </span>年<span lang=EN-US>6</span>月生<span lang=EN-US> | </span>户口：辽宁<span
+lang=EN-US> | </span>现居住于北京<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.25pt;mso-para-margin-left:.5gd'><span
+lang=EN-US style='font-size:9.0pt;font-family:宋体;color:#404040'>10</span><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>年以上工作经验</span><span
+lang=EN-US><span style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'> |
+</span></span><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri'>身份证：</span><span lang=EN-US> 21072719xxxxx9X<o:p></o:p></span></p>
+
+</span>
+
+<p class=MsoNormal style='margin-left:5.25pt;mso-para-margin-left:.5gd'><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;font-family:宋体;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-left:5.25pt;mso-para-margin-left:.5gd'><span
+lang=FR style='font-size:9.0pt;font-family:宋体;color:#404040;mso-ansi-language:
+FR'>186114080XXX(</span><span style='font-size:9.0pt;font-family:宋体;color:#404040'>手机</span><span
+lang=FR style='font-size:9.0pt;font-family:宋体;color:#404040;mso-ansi-language:
+FR'>)</span><span lang=FR style='mso-ansi-language:FR'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:5.25pt;mso-para-margin-left:.5gd'><span
+lang=FR style='mso-ansi-language:FR'>E-mail: </span></span><span lang=FR
+style='font-size:9.0pt;font-family:宋体;mso-ansi-language:FR'><a
+href="mailto:wanao14@gmail.com">wanao14@gmail.com</a></span><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t32" coordsize="21600,21600" o:spt="32" o:oned="t" path="m,l21600,21600e"
+ filled="f">
+ <v:path arrowok="t" fillok="f" o:connecttype="none"/>
+ <o:lock v:ext="edit" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s2056" type="#_x0000_t32" style='position:absolute;
+ left:0;text-align:left;margin-left:-7.45pt;margin-top:12.4pt;width:578.25pt;
+ height:0;z-index:2;mso-position-horizontal-relative:text;
+ mso-position-vertical-relative:text' o:connectortype="straight" strokecolor="#d8d8d8"/><![endif]--><![if !vml]><span
+style='mso-ignore:vglayout;position:absolute;z-index:2;left:0px;margin-left:
+-11px;margin-top:16px;width:773px;height:2px'><img width=773 height=2
+src="java框架师_10年工作经验.files/image002.gif" v:shapes="_x0000_s2056"></span><![endif]><span
+lang=FR style='font-size:9.0pt;font-family:宋体;color:#404040;mso-ansi-language:
+FR'><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2055" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-15' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2053" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2054" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-15;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2055 _x0000_s2053 _x0000_s2054"></span><![endif]><span
+lang=FR style='font-size:9.0pt;font-family:宋体;color:#404040;mso-ansi-language:
+FR'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:15.75pt;mso-char-indent-count:1.5'><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;color:#2E5E92'><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'>求职意向</span></span><span
+lang=FR style='mso-bidi-font-size:10.5pt;font-family:宋体;color:#2E5E92;
+mso-ansi-language:FR'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=FR style='font-size:12.0pt;font-family:宋体;
+color:#404040;mso-ansi-language:FR'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>·工作性质：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span style='font-size:9.0pt;color:#404040'> <span
+style='mso-spacerun:yes'> </span></span></span><span style='mso-ascii-theme-font:
+minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>全职</span></span><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>·期望职业：</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+color:#404040'> <span style='mso-spacerun:yes'> </span></span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>系统工程师</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>·期望行业：</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+color:#404040'> <span style='mso-spacerun:yes'> </span></span><span lang=EN-US><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'>IT</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>服务（系统</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>数据</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>/</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>维护）</span><span lang=EN-US style='font-size:9.0pt;color:#404040'>/</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>多领域经营、互联网</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>电子商务、计算机软件</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>·工作地区：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span style='font-size:9.0pt;color:#404040'> <span
+style='mso-spacerun:yes'> </span></span></span><span style='mso-ascii-theme-font:
+minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>北京、西安</span></span><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>·期望月薪：</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><span style='mso-spacerun:yes'>  </span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>面议</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'>·目前状况：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span style='font-size:9.0pt;color:#404040'> <span
+style='mso-spacerun:yes'> </span></span></span><span style='mso-ascii-theme-font:
+minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2059" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-7' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2060" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2061" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-7;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2059 _x0000_s2060 _x0000_s2061"></span><![endif]><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:15.75pt;mso-char-indent-count:1.5'><span
+style='mso-themecolor:text1;mso-themetint:191'><span style='font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>自我评价</span></p>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US>——</span></span><span lang=EN-US style='font-size:9.0pt;color:#404040'>
+10</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>年</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>IT</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>行业研发背景，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>3</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>年研发部门管理经验，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>5</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>年产品研发管理经验，最多</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'>30</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>人团队管理经验</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——</span><span style='font-size:
+9.0pt;color:#404040'> </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>在电子政务领域具有丰富经验，熟悉政府信息化流程及特点；深入理解国土资源管理的思路与方法</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——</span><span style='font-size:
+9.0pt;color:#404040'> </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>愿意加入创业团队，能承受较大的工作压力</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——</span><span style='font-size:
+9.0pt;color:#404040'> </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>具有优秀的沟通能力，良好的协作意识，独立负责过多个产品研发与重要项目开发</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——</span><span style='font-size:
+9.0pt;color:#404040'> </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>热爱</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>IT</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>行业，喜欢迎接挑战，对工作充满热情，富有创新精神，踏实肯干，勇于承担</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2140" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-14' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2142" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2141" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-14;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2140 _x0000_s2142 _x0000_s2141"></span><![endif]><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0'><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'><span
+style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>工作经历</span></p>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US>2011/10 -- </span></span><span style='mso-bidi-font-size:10.5pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>至今</span></span><span style='mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;color:#404040'> <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>北京天大天科科技发展有限公司<span
+lang=EN-US> | </span>产品研发部<span lang=EN-US> | </span>系统架构师 <span
+style='mso-spacerun:yes'> </span></span></span></b><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>行业类别：计算机软件</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'> | </span></span><span style='mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>企业性质：民营</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>规模：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>100-499</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>人</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><span style='mso-themecolor:text1;mso-themetint:191'> | </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>职位月薪：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>15000-25000</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>元</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>月</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作描述：</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1.</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>汾西集团数矿中心研究与应用</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：汾西集团是一家大型煤炭集团，经过多年的信息化实践，在各部门和煤矿均建有信息化系统。但系统间信息流通不畅，孤岛现象比较严重，急需建立统一的平台，整合现有应用。天科结合汾西集团信息化现状，与公司对煤炭企业全面信息化的总体规划，计划首先在汾西集团建立基于统一编码的综合数据平台，通过平台提供的建模、传输、交换、整理、发布等功能，达到整合全集团核心数据的目的。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：兼职项目经理，负责与项目相关高层客户沟通、组织协调、计划安排、现场演示、实施与验收管理等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Ketlte</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Birt</span></span><span style='font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>等。</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'></span>2009/03 --
+2011/09</span></span><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>北京三正科技有限公司<span
+lang=EN-US> | </span>国土事业部<span lang=EN-US> | </span>系统架构师 <span
+style='mso-spacerun:yes'> </span></span></span></b><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>行业类别：计算机软件</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'> | </span></span><span style='mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>企业性质：民营</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>规模：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>100-499</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>人</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><span style='mso-themecolor:text1;mso-themetint:191'> | </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>职位月薪：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>10001-15000</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>元</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>月</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作描述：</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>主要负责产品规划、技术架构、人员激励、考核与培训等。期间完成项目如下：</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+1.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>国土资源一张图管理基础平台</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1.0</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>(2009.3-2009.12)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：作为金土工程项目的基础业务平台，实现流程定制、重点项目管理、</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>Gis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>一张图应用、数据导入、</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Gis</span></span><span style='font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>专题图打印等功能。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：目标定义、进度监控、资源调配、阶段评审等。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+2.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>快速开发基础框架与集成开发环境。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2010.2-2010.8)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：公司内部自主研发的产品，以多年项目实施的技术经验为基础，总结和提炼的综合技术开发平台，基本实现了底层技术架构与应用实施的分离，成为国土资源一张图管理基础平台的技术基础，并为应用开发人员提供了简便易用的开发工具。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：目标定义、进度监控、资源调配、阶段评审等。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+3.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>国土资源一张图管理基础平台</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>2.0</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>(2010.4-2011.5)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：作为金土工程项目的基础业务平台，实现流程定制、重点项目管理、</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>Gis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>一张图应用、数据导入、</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Gis</span></span><span style='font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>专题图打印等功能。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>2.0</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>在</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1.0</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>的基础上，由于有底层基础平台的支持，进一步分离了开发与设计人员的职责，使新入职员工经过系统培训，能快速进入工作状态。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：目标定义、进度监控、资源调配、阶段评审等。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+4.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>惠州金土工程应用系统。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2009-2011)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：金土工程是在国土资源电子政务建设的总体框架下，围绕当前国土资源管理的中心工作，选择耕地保护、矿产资源管理、地质灾害防治等重要业务，在流程梳理、整合的基础上，建立业务应用系统和相应的信息服务系统，形成边界清晰的覆盖国家、省、市、县级的政务信息系统。惠州市是首批试点单位。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>、</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>oracle <span class=SpellE>biee</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle <span class=SpellE>webcenter</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle <span class=SpellE>adf</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle <span class=SpellE>etl</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>、</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>、</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>、</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>windows mobile</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>等。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：项目计划、组织实施、技术架构、干系人协调，演示与验收等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+5.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>仲恺高新区金土工程应用系统一期。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2011.2-2011.8)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：根据仲恺高新区国土管理的特点，实施的以用地业务为主的应用系统。根据金土工程的总体要求，在业务办理过程中要求能与市局系统协同办公。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>windows mobile</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>等。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：项目推进、技术架构、资源配置、代码交付质量控制等。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+6.</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>龙门县金土工程应用系统一期。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2011.3-2011.8)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：根据龙门县国土管理的特点，实施的以用地业务为主的应用系统。根据金土工程的总体要求，在业务办理过程中要求能与市局系统协同办公。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>oracle11g</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>arcgis</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>jquery</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>hibernate</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>windows mobile</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>等。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：项目推进、技术架构、资源配置、代码交付质量控制等。</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'>2007/09 -- 2009/03</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>北京华创动力科技有限公司<span
+lang=EN-US> | </span>研发部<span lang=EN-US> | </span>系统架构师 <span
+style='mso-spacerun:yes'> </span></span></span></b><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>行业类别：计算机软件</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'> | </span></span><span style='mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>企业性质：民营</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>规模：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>20-99</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>人</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><span style='mso-themecolor:text1;mso-themetint:191'> | </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>职位月薪：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>10001-15000</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>元</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>月</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作描述：</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1. Matrix</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作流产品</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：工作流系统，给予</span><span class=SpellE><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>osworkflow</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>改进，有自主开发的设计器，能高效、灵活的设计工作流程。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OSWorkflow</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：系统架构师</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：系统规划、进度与质量管理、售前、培训与演示。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>———————————————————————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+2. Matrix</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>快速开发平台</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：基于</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>SOA</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>理念的基础开发平台，能使开发人员以托、拉、拽的方式快速构建应用程序。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：页面交互组件，页面流程组件，逻辑服务组件，自定义逻辑服务组件，协同流程组件，集成流程组件，数据服务组件，安全与可靠性策略组件。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目规模：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>12</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>人，</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>30</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>个月</span><span lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>SmileFace</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <span class=SpellE>wiki</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Project </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Visio</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Mysql</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Oracle</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Eclipse<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术架构：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>SOA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术标准：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>SCA</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>SDO</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>WSRM</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>WSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——参考技术：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>SWT</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>JEF</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Tuscany</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Axis2</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Matrix Workflow</span><span style='font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>JSF</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>EXT</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>DOJO</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Sandesha2</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Rampart</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>AST<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>windows<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——语言环境：中</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>英文</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：系统架构师</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：小组人员激励与培训、对外演示与推广，运行时组件生命周期设计、人机交互模式设计，技术预研，压力和集成测试。</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'>2005/12 -- 2007/08</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>安博集团师大安博科技有限公司<span
+lang=EN-US> | </span>软件研发部<span lang=EN-US> | </span>系统架构师 </span></b><span
+lang=EN-US style='font-size:9.0pt;font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>行业类别：计算机软件</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'> | </span></span><span style='mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>企业性质：合资</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>规模：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>500-999</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>人</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><span style='mso-themecolor:text1;mso-themetint:191'> | </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>职位月薪：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>8001-10000</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>元</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>月</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作描述：</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1. </span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>中国联通新时空移动通信建设工程系统</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>(2005.3-2005.9)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：中国联通公司移动部的工程项目进行综合性的管理，整合</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OA</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>，内容管理，知识管理系统。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：可研管理，设备管理，初设管理，施工管理，资金拨付管理，工程统计分析。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要技术：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OSWorkflow</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>eclipse<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：架构师</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：立项，需求，与技术经理讨论和确定各种软硬件瓶颈问题，技术预研，压力和集成测试，部署，维护等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+2. </span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>北京市交通委员会办公自动化系统</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2005.8-2006.12)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：北京市交通委员会办公自动化系统</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：公文管理，会议管理，信息管理，督办督察，领导办公，个人办公，建议提案，信访管理，公共信息，综合管理。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OSWorkflow</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Hibernate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Project </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Visio </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Oracle</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Eclipse<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：项目经理</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：立项，需求，与技术经理讨论和确定各种软硬件瓶颈问题，技术预研，压力和集成测试，部署，维护等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+3. 2007</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>初至</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>2007</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>年末离开安博之间除做了以下项目外主要工作是总结技术规范，规范开发流程，培训和技术资料整理。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+4. </span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>郑州市铁路局信息管理系统</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> (2007.2-2007.8)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：郑州市铁路局物流管理系统</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：外网</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>CMS</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，论坛，内网权限系统，供应链管理，物资管理</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>\</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>代储物资管理，物资编码管理，其他处业务，库存管理。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OSWorkflow</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Hibernate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Project </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Visio </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Oracle</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Eclipse<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Unix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：软件架构师</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：与本项目负责系统架构师讨论和确定各种软硬件瓶颈问题，技术预研，压力和集成测试，部署，维护。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+5. </span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>爆破英语评测系统（</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>2007.6 </span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>–</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'> 2007.8</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>）</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：爆破英语评测系统</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：流程管理，试卷管理，试题管理，策略管理。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——技术选型：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>OSWorkflow</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Webwork2</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Spring</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Hibernate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Project </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Visio </span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>Mysql</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Eclipse<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——担任职务：软件架构师</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要负责：与本项目负责系统架构师讨论和确定各种软硬件瓶颈问题，技术预研，压力和集成测试，部署，维护。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'>2002/09 -- 2005/07</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;color:#404040'>武汉烽火网络有限公司<span
+lang=EN-US> | </span>软件研发部<span lang=EN-US> | </span>软件工程师 <span
+style='mso-spacerun:yes'> </span></span></span></b><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>行业类别：计算机软件</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><span style='mso-themecolor:text1;
+mso-themetint:191'> | </span></span><span style='mso-ascii-theme-font:minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>企业性质：国企</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span><span
+style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>规模：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>500-999</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>人</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><span style='mso-themecolor:text1;mso-themetint:191'> | </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>职位月薪：</span></span><span style='mso-themecolor:text1;
+mso-themetint:191'><span lang=EN-US style='font-size:9.0pt;color:#404040'>2001-4000</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>元</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>/</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>月</span></span><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>工作描述：</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:
+minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>1. </span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>利郎服饰企业管理系统</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>(2002.6-2003)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：利郎服饰企业管理系统，从需求计划，物料采购到生产，发售的企业</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>ERP</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>系统。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：计划管理，统计分析，采购管理，生产计划管理，发售管理，系统管理等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——框架选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Struts<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Rational Rose</span><span style='font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Oracle</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Jbuilder</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：编码，测试</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+2. </span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>武商量贩信息管理系统</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2003.10-2003.12)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：武商量贩内部信息管理系统。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：计划管理，供应链管理，库存管理，停车场管理等。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——框架选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Stateless Session Bean<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Rational Rose</span><span style='font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+class=SpellE><span lang=EN-US style='font-size:9.0pt;color:#404040'>Mysql</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Jbuilder</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：详细设计，编码</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+3. </span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>武汉同济医院信息管理系统（</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>HMIS)(2004.2-2004)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>HIMS</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>系统，医院内部网信息管理系统和外部网内容管理系统（</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>CMS</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>）。</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：决策支持，信息维护，住院管理，处方病历管理，药房管理，后勤物资管理，人事管理。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Rational Rose</span><span style='font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> <span class=SpellE>Mysql</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Jbuilder</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：详细设计，编码</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+4. ERP</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-hansi-font-family:Calibri;color:#404040'>平台研发一期</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>(2004.7-2005.3)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——项目介绍：企业自主研发产品。</span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>ERP</span><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>类通用平台。主要对象是生产为核心的企业。</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要模块：决策支持，主生产计划，财务，客户关系管理，库存管理，检斤模块等。</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——框架选型：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Struts</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Spring<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——开发工具：</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>PowerDesigner</span></span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Rational Rose</span><span style='font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> Oracle</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>，</span><span class=SpellE><span lang=EN-US
+style='font-size:9.0pt;color:#404040'>Jbuilder</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——生产环境：</span><span lang=EN-US style='font-size:9.0pt;
+color:#404040'>Windows</span><span style='font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:#404040'>，</span><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>Linux<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>——主要工作：详细设计，编码</span><span lang=EN-US style='font-size:
+9.0pt;color:#404040'><br>
+</span><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri;color:#404040'>——————————————————————</span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><!--[if gte vml 1]><v:group
+ id="_x0000_s2137" style='position:absolute;left:0;text-align:left;
+ margin-left:1.55pt;margin-top:13.15pt;width:8in;height:20.25pt;z-index:-13'
+ coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2139" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2138" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--></span><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+color:#2E5E92;display:none;mso-hide:all'><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'>项目经验<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='color:#2E5E92;display:none;
+mso-hide:all'></span><!--[if gte vml 1]><v:group id="_x0000_s2071" style='position:absolute;
+ left:0;text-align:left;margin-left:1.35pt;margin-top:13.75pt;width:8in;
+ height:20.25pt;z-index:-6' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2072" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2073" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0'><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;color:#2E5E92'><span
+style='mso-themecolor:text1;mso-themetint:191'>教育经历<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='color:#2E5E92'></span><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'>2000/09 --2002/09</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>辽宁科技大学</span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='mso-themecolor:
+text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span></b><b
+style='mso-bidi-font-weight:normal'><span style='mso-ascii-theme-font:
+minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>金属材料工程</span></span></b><b style='mso-bidi-font-weight:normal'><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> | </span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:
+191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>本科</span></span></b><b style='mso-bidi-font-weight:normal'><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;color:#404040'>1997/07 --2000/07</span></span><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> <o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>辽宁义县第一高级中学</span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='mso-themecolor:
+text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'> | </span></span></b><b
+style='mso-bidi-font-weight:normal'><span style='mso-ascii-theme-font:
+minor-latin;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-themecolor:text1;mso-themetint:191'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+color:#404040'>理科</span></span></b><b style='mso-bidi-font-weight:normal'><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'> | </span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:
+191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>高中</span></span></b><b style='mso-bidi-font-weight:normal'><span
+style='mso-themecolor:text1;mso-themetint:191'><span lang=EN-US
+style='font-size:9.0pt;color:#404040'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2076" style='position:absolute;
+ left:0;text-align:left;margin-left:1.35pt;margin-top:12.25pt;width:8in;
+ height:20.25pt;z-index:-3' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2077" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2078" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-3;left:0px;margin-left:2px;margin-top:16px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image006.gif"
+v:shapes="_x0000_s2076 _x0000_s2077 _x0000_s2078"></span><![endif]><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:9.0pt;
+color:#404040;display:none;mso-hide:all'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+color:#2E5E92;display:none;mso-hide:all'>在校学习情况<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:宋体;
+color:#404040;display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040;
+display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<span style='mso-themecolor:text1;mso-themetint:191'>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2082" style='position:absolute;
+ left:0;text-align:left;margin-left:.6pt;margin-top:13.3pt;width:8in;height:20.25pt;
+ z-index:-2' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2083" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2084" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-2;left:0px;margin-left:1px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image006.gif"
+v:shapes="_x0000_s2082 _x0000_s2083 _x0000_s2084"></span><![endif]><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>在校实践经验</span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2134" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-12' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2136" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2135" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-12;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2134 _x0000_s2136 _x0000_s2135"></span><![endif]></p>
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+mso-hansi-font-family:Calibri'>培训经历</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2131" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-11' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2133" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2132" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-11;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2131 _x0000_s2133 _x0000_s2132"></span><![endif]><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040;
+display:none;mso-hide:all'></span><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span style='mso-spacerun:yes'> </span></span></span><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast'><span style='mso-bidi-font-size:10.5pt;
+font-family:宋体;color:#2E5E92;display:none;mso-hide:all'>证书</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><!--[if gte vml 1]><v:group
+ id="_x0000_s2128" style='position:absolute;left:0;text-align:left;
+ margin-left:1.35pt;margin-top:13.75pt;width:8in;height:20.25pt;z-index:-5'
+ coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2130" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2129" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+color:#2E5E92;display:none;mso-hide:all'><span style='mso-themecolor:text1;
+mso-themetint:191'>语言能力</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><!--[if gte vml 1]><v:group
+ id="_x0000_s2125" style='position:absolute;left:0;text-align:left;
+ margin-left:1.55pt;margin-top:13.15pt;width:8in;height:20.25pt;z-index:-10'
+ coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2127" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2126" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--></span><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040;
+display:none;mso-hide:all'><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'><span style='mso-spacerun:yes'> </span></span></span><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast'><span style='mso-bidi-font-size:10.5pt;
+font-family:宋体;color:#2E5E92;display:none;mso-hide:all'>专业技能</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><!--[if gte vml 1]><v:group
+ id="_x0000_s2122" style='position:absolute;left:0;text-align:left;
+ margin-left:1.35pt;margin-top:13.75pt;width:8in;height:20.25pt;z-index:-4'
+ coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2124" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2123" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--></span><span lang=EN-US style='font-size:9.0pt;
+color:#404040;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+color:#2E5E92;display:none;mso-hide:all'><span style='mso-themecolor:text1;
+mso-themetint:191'>附件</span></span><span lang=EN-US style='font-size:9.0pt;
+color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='display:none;mso-hide:all'><!--[if gte vml 1]><v:group
+ id="_x0000_s2119" style='position:absolute;left:0;text-align:left;
+ margin-left:1.55pt;margin-top:13.15pt;width:8in;height:20.25pt;z-index:-9'
+ coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2121" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2120" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--></span><span lang=EN-US style='font-size:9.0pt;
+font-family:宋体;color:#404040;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+color:#2E5E92;display:none;mso-hide:all'><span style='mso-ascii-theme-font:minor-fareast;
+mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+minor-fareast;
+mso-themecolor:text1;mso-themetint:191'>附件简历</span></span><span lang=EN-US
+style='font-size:9.0pt;color:#2E5E92;display:none;mso-hide:all'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-fareast;mso-themecolor:
+text1;mso-themetint:191'><span
+lang=EN-US style='font-size:12.0pt;font-family:宋体;color:#404040;display:none;
+mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:#404040;
+display:none;mso-hide:all'><span style='mso-themecolor:text1;mso-themetint:191'>|
+</span><span style='mso-field-code:" HYPERLINK \0022\0022 "'></span><o:p></o:p></span></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:group id="_x0000_s2116" style='position:absolute;
+ left:0;text-align:left;margin-left:1.55pt;margin-top:13.15pt;width:8in;
+ height:20.25pt;z-index:-8' coordorigin="315,3837" coordsize="11580,405">
+ <v:rect id="_x0000_s2118" style='position:absolute;left:386;top:3837;width:11509;
+  height:405' fillcolor="#dbe5f1" stroked="f">
+  <v:fill color2="fill lighten(51)" angle="-90" focusposition="1" focussize=""
+   method="linear sigma" focus="100%" type="gradient"/>
+ </v:rect><v:rect id="_x0000_s2117" style='position:absolute;left:315;top:3837;
+  width:71;height:405' fillcolor="#548dd4" stroked="f"/>
+</v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:-8;left:0px;margin-left:2px;margin-top:18px;width:768px;
+height:27px'><img width=768 height=27 src="java框架师_10年工作经验.files/image005.gif"
+v:shapes="_x0000_s2116 _x0000_s2118 _x0000_s2117"></span><![endif]><span
+lang=EN-US style='font-size:9.0pt;font-family:宋体;color:#404040'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0'><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;color:#2E5E92'><span
+style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+mso-hansi-theme-font:
+minor-fareast;mso-themecolor:text1;mso-themetint:191'>简历内容</span></span><span
+lang=EN-US style='font-size:9.0pt;color:#2E5E92'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-fareast;mso-themecolor:
+text1;mso-themetint:191'><span
+lang=EN-US style='font-size:12.0pt;font-family:宋体;color:#404040'><o:p>&nbsp;</o:p></span></p>
+
+</span>
+
+<p class=MsoNormal><span style='mso-themecolor:text1;mso-themetint:191'><span
+lang=EN-US style='font-size:9.0pt;color:#404040'>| </span></span><span
+style='mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+minor-fareast;
+mso-hansi-theme-font:minor-latin;mso-themecolor:text1;mso-themetint:191'><span
+style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+Calibri;color:#404040'>。。</span></span></p>
+
+</div>
+
+</body>
+
+</html>
